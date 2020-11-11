@@ -11,11 +11,11 @@ Porto
 
 
 ## Experiência
-## Natixis in Portugal
+# Natixis in Portugal
 Desenvolvedor Sharepoint
 maio de 2019 - Present (1 ano 7 meses)
 Porto e Região, Portugal
-## Inpartec
+# Inpartec
 3 anos 8 meses
 Pré-vendas arquiteto de soluções
 novembro de 2018 - abril de 2019 (6 meses)
@@ -33,7 +33,7 @@ Desenvolver soluções com CSOM integrando office 365 com Microsoft
 Azure, desenvolver Event Receivers remotos/foudation, construir relatórios e
 gráficos usando javascript com API / Rest. Projetar e desenvolver intranet com
 recursos sociais e de colaboração. Apoiar nossos desenvolvedores juniors
-## Class Sharepoint Solutions
+# Class Sharepoint Solutions
 3 anos
 Sharepoint Developer
 junho de 2014 - agosto de 2015 (1 ano 3 meses)
