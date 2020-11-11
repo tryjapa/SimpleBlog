@@ -3,12 +3,12 @@ import fs from "fs";
 
 const Home = ({ slugs }) => (
   <div>
-    slugs:
+    Dados sobre mim:
     {slugs.map(slug => {
       return (
         <div key={slug}>
-          <Link href={"/blog/" + slug}>
-            <a>{"/blog/" + slug}</a>
+          <Link href={"/info/" + slug}>
+            <a>{"/info/" + slug}</a>
           </Link>
         </div>
       );
